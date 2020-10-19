@@ -1,18 +1,3 @@
-# ticketapp
-
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+<img src="https://gfycat.com/honoredsourliger" width="500" alt="product-app">
+<hr>
+<div style='position:relative; padding-bottom:calc(56.20% + 44px)'><iframe src='https://gfycat.com/ifr/HonoredSourLiger' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
